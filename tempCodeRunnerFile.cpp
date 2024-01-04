@@ -26,7 +26,7 @@ int main(){
 	
 	cout << "Before swapping:\n";
 	cout << "p = " << p << ", q = " << q << "\n";
-	mySwap(p,q);
+	mySwa(p,q);
 	cout << "After swapping:\n";
 	cout << "p = " << p << ", q = " << q << "\n";
 
